@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2767c780-e0b9-41e6-9683-f06b6f45adbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/analyzecolorspace.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/output_pdfa2b.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/output_pdfa2b.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resources/output_pdfa2b.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pdf2aconverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/pdf2aconverter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,15 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.analyzecolorspace.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pdf2aconverter.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.analyzecolorspace.executor": "Run",
+    "Python.pdf2aconverter.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/sachi/OneDrive - University of Utah/Sem3/IS6495 Python/pythonProject"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\PDFProcessing\resources" />
